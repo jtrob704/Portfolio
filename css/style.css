@@ -1,5 +1,5 @@
-*{
-  font-family: 'Lato', sans-serif;
+* {
+  font-family: "Lato", sans-serif;
  }
 
 .text-super {
@@ -9,24 +9,24 @@
  }
 
 .text-muted {
-  color: #BCBBBB;
+   color: #bcbbbb;
 }
 
 .text-sub {
-  font-weight: 300;
-  color: #747704;
+   font-weight: 300;
+   color: #747704;
 }
 
 .thick-line {
-  border-top-width: thick;
-  color: #747704;
+   border-top-width: thick;
+   color: #747704;
 }
 
 .title-logo {
-  margin-top: 30px;
+   margin-top: 30px;
 }
 
 .project-text {
-  font-weight: 400;
-  color: #747704;
+   font-weight: 400;
+   color: #747704;
 }
